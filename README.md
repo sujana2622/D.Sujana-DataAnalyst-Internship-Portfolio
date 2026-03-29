@@ -24,12 +24,12 @@ key business insights and recommendations.
 
 ## 🔗 Task Repositories
 
-| Task | Repository Link |
+| Task |  |
 |------|----------------|
-| Task 1 | [Data Wrangling](paste task1 github link here) |
-| Task 2 | [EDA & BI](paste task2 github link here) |
-| Task 3 | [Dashboard](paste task3 github link here) |
-| Task 4 | [Storytelling](paste task4 github link here) |
+| Task 1 | [Data Wrangling](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task1_cleaning.ipynb) |
+| Task 2 | [EDA & BI](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task2_eda.ipynb) |
+| Task 3 | [Dashboard](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task3_deepdive.ipynb) |
+| Task 4 | [Storytelling](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task4_storytelling.ipynb) |
 
 ---
 
