@@ -1,0 +1,3 @@
+Hypothesis,T-Statistic,P-Value,Significant,Conclusion
+High discounts cause profit loss,22.1342,0.0,True,Reject H0 - Discounts hurt profit
+West region has higher sales than East,-0.8039,0.421482,False,Fail to reject H0
