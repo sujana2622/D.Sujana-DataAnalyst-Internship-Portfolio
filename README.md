@@ -24,7 +24,7 @@ key business insights and recommendations.
 
 ## 🔗 Task Repositories
 
-| Task |  |
+| Task |  |internship-https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio|
 |------|----------------|
 | Task 1 | [Data Wrangling](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task1_cleaning.ipynb) |
 | Task 2 | [EDA & BI](https://github.com/sujana2622/D.Sujana-DataAnalyst-Internship-Portfolio/blob/main/task2_eda.ipynb) |
